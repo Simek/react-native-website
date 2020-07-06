@@ -1,7 +1,7 @@
 {
   "version-0.61-docs": {
     "The Basics": [
-      "version-0.61-getting-started",
+      "getting-started",
       "version-0.61-tutorial",
       "version-0.61-props",
       "version-0.61-state",

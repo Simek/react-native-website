@@ -1,7 +1,6 @@
 ---
-id: version-0.27-netinfo
 title: NetInfo
-original_id: netinfo
+id: netinfo
 ---
 
 NetInfo exposes info about online/offline status

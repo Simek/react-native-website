@@ -1,7 +1,6 @@
 ---
-id: version-0.20-datepickerandroid
 title: DatePickerAndroid
-original_id: datepickerandroid
+id: datepickerandroid
 ---
 
 Opens the standard Android date picker dialog.

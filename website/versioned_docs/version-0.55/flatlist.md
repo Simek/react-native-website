@@ -1,7 +1,6 @@
 ---
-id: version-0.55-flatlist
 title: FlatList
-original_id: flatlist
+id: flatlist
 ---
 
 A performant interface for rendering painless flat lists, supporting the most handy features:

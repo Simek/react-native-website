@@ -1,7 +1,6 @@
 ---
-id: version-0.56-progressbarandroid
 title: ProgressBarAndroid
-original_id: progressbarandroid
+id: progressbarandroid
 ---
 
 Android-only React component used to indicate that the app is loading or there is some activity in the app.

@@ -1,7 +1,6 @@
 ---
-id: version-0.5-components-and-apis
 title: Components and APIs
-original_id: components-and-apis
+id: components-and-apis
 ---
 
 React Native provides a number of [Core Components](intro-react-native-components). You will find a full list of components and APIs on the sidebar to the left. If you're not sure where to get started, take a look at the following categories:

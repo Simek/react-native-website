@@ -1,7 +1,6 @@
 ---
-id: version-0.50-checkbox
 title: CheckBox
-original_id: checkbox
+id: checkbox
 ---
 
 Renders a boolean input (Android only).

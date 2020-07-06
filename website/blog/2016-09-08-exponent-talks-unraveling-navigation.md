@@ -1,5 +1,5 @@
 ---
-title: Expo Talks: Adam on Unraveling Navigation
+title: "Expo Talks: Adam on Unraveling Navigation"
 author: Héctor Ramos
 authorTitle: Developer Advocate at Facebook
 authorURL: https://twitter.com/hectorramos

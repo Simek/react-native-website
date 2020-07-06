@@ -1,7 +1,6 @@
 ---
-id: version-0.5-backandroid
 title: BackAndroid
-original_id: backandroid
+id: backandroid
 ---
 
 **Deprecated.** Use [BackHandler](backhandler.md) instead.

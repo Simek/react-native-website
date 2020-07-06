@@ -1,7 +1,6 @@
 ---
-id: version-0.5-imagepickerios
 title: ImagePickerIOS
-original_id: imagepickerios
+id: imagepickerios
 ---
 
 ### Methods

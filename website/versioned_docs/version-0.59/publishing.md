@@ -1,7 +1,6 @@
 ---
-id: version-0.59-publishing-forks
 title: Publish your own version of react native
-original_id: publishing-forks
+id: publishing-forks
 ---
 
 ## TL;DR

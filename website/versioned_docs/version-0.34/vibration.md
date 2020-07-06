@@ -1,7 +1,6 @@
 ---
-id: version-0.34-vibration
 title: Vibration
-original_id: vibration
+id: vibration
 ---
 
 ### Methods

@@ -1,7 +1,6 @@
 ---
-id: version-0.5-more-resources
 title: More Resources
-original_id: more-resources
+id: more-resources
 ---
 
 If you only read through this website, you should be able to build a pretty cool React Native app. But React Native isn't a product made by one company - it's a community of thousands of developers. So if you're interested in React Native, here's some related stuff you might want to check out.

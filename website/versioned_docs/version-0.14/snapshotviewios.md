@@ -1,7 +1,6 @@
 ---
-id: version-0.14-snapshotviewios
 title: SnapshotViewIOS
-original_id: snapshotviewios
+id: snapshotviewios
 ---
 
 ### Props

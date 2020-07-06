@@ -1,7 +1,6 @@
 ---
-id: version-0.18-webview
 title: WebView
-original_id: webview
+id: webview
 ---
 
 Renders a native WebView.

@@ -1,5 +1,5 @@
 ---
-title: React Native for Android: How we built the first cross-platform React Native app
+title: "React Native for Android: How we built the first cross-platform React Native app"
 author: Daniel Witte
 authorTitle: Software Engineer at Facebook
 authorURL: https://www.facebook.com/drwitte

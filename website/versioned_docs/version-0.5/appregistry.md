@@ -1,7 +1,6 @@
 ---
-id: version-0.5-appregistry
 title: AppRegistry
-original_id: appregistry
+id: appregistry
 ---
 
 <div class="banner-crna-ejected">

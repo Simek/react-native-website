@@ -1,7 +1,6 @@
 ---
-id: version-0.51-text
 title: Text
-original_id: text
+id: text
 ---
 
 A React component for displaying text.

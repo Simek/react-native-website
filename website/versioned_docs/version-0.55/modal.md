@@ -1,7 +1,6 @@
 ---
-id: version-0.55-modal
 title: Modal
-original_id: modal
+id: modal
 ---
 
 The Modal component is a quick way to present content above an enclosing view.

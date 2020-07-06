@@ -1,7 +1,6 @@
 ---
-id: version-0.62-clipboard
 title: 🚧 Clipboard
-original_id: clipboard
+id: clipboard
 ---
 
 > **Deprecated.** Use [@react-native-community/clipboard](https://github.com/react-native-community/clipboard) instead.

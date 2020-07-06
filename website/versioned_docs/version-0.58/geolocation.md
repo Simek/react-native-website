@@ -1,7 +1,6 @@
 ---
-id: version-0.58-geolocation
 title: 🚧 Geolocation
-original_id: geolocation
+id: geolocation
 ---
 
 > **Deprecated.** Use [@react-native-community/geolocation](https://github.com/react-native-community/react-native-geolocation) instead.
@@ -44,7 +43,7 @@ Android API >= 18 Positions will also contain a `mocked` boolean to indicate if 
 <p>
   Android API >= 23 Requires an additional step to check for, and request
   the ACCESS_FINE_LOCATION permission using
-  the <a href="/docs/permissionsandroid" target="_blank">PermissionsAndroid API</a>.
+  the <a href="/website/docs/permissionsandroid" target="_blank">PermissionsAndroid API</a>.
   Failure to do so may result in a hard crash.
 </p>
 

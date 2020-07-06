@@ -1,7 +1,6 @@
 ---
-id: version-0.60-appregistry
 title: AppRegistry
-original_id: appregistry
+id: appregistry
 ---
 
 <div class="banner-native-code-required">

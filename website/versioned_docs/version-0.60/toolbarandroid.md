@@ -1,7 +1,6 @@
 ---
-id: version-0.60-toolbarandroid
 title: ToolbarAndroid
-original_id: toolbarandroid
+id: toolbarandroid
 ---
 
 > **NOTE**: Toolbar Android has been deprecated and removed from the package since React Native v0.61.0. Use [@react-native-community/toolbar-android](https://github.com/react-native-community/toolbar-android) instead.

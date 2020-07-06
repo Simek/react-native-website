@@ -1,7 +1,6 @@
 ---
-id: version-0.58-appstate
 title: AppState
-original_id: appstate
+id: appstate
 ---
 
 `AppState` can tell you if the app is in the foreground or background, and notify you when the state changes.

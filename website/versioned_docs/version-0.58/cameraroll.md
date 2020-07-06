@@ -1,7 +1,6 @@
 ---
-id: version-0.58-cameraroll
 title: 🚧 CameraRoll
-original_id: cameraroll
+id: cameraroll
 ---
 
 > **Deprecated.** Use [@react-native-community/cameraroll](https://github.com/react-native-community/react-native-cameraroll) instead.

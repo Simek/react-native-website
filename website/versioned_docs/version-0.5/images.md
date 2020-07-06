@@ -1,7 +1,6 @@
 ---
-id: version-0.5-images
 title: Images
-original_id: images
+id: images
 ---
 
 ## Static Image Resources

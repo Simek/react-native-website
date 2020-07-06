@@ -1,7 +1,6 @@
 ---
-id: version-0.26-tabbarios
 title: TabBarIOS
-original_id: tabbarios
+id: tabbarios
 ---
 
 ### Props

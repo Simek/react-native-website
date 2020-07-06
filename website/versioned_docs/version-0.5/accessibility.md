@@ -1,7 +1,6 @@
 ---
-id: version-0.5-accessibility
 title: Accessibility
-original_id: accessibility
+id: accessibility
 ---
 
 Both Android and iOS provide APIs for integrating apps with assistive technologies like the bundled screen readers VoiceOver (iOS) and Talkback (Android). React Native has complimentary APIs that let your app accommodate all users.

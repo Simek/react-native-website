@@ -1,7 +1,6 @@
 ---
-id: version-0.37-systrace
 title: Systrace
-original_id: systrace
+id: systrace
 ---
 
 ### Methods

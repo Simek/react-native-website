@@ -1,7 +1,6 @@
 ---
-id: version-0.54-permissionsandroid
 title: PermissionsAndroid
-original_id: permissionsandroid
+id: permissionsandroid
 ---
 
 <div class="banner-crna-ejected">

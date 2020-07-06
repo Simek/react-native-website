@@ -1,7 +1,6 @@
 ---
-id: version-0.11-toastandroid
 title: ToastAndroid
-original_id: toastandroid
+id: toastandroid
 ---
 
 This exposes the native ToastAndroid module as a JS module. This has a function 'showText' which takes the following parameters:

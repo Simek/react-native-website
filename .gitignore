@@ -1,15 +1,14 @@
 node_modules
 .DS_Store
 .idea
-lib/core/metadata.js
-lib/core/MetadataBlog.js
+.nvmrc
+
 website/translated_docs
 website/build/
 website/community-repos.json
 website/yarn.lock
 website/node_modules
+website/.docusaurus
 
 website/i18n/*
 !website/i18n/en.json
-
-.nvmrc

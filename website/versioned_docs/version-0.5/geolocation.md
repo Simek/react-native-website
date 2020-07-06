@@ -1,7 +1,6 @@
 ---
-id: version-0.5-geolocation
 title: Geolocation
-original_id: geolocation
+id: geolocation
 ---
 
 You need to include the `NSLocationWhenInUseUsageDescription` key in Info.plist to enable geolocation. Geolocation is enabled by default when you create a project with `react-native init`.

@@ -1,7 +1,6 @@
 ---
-id: version-0.11-modal
 title: Modal
-original_id: modal
+id: modal
 ---
 
 ### Props

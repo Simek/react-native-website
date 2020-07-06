@@ -1,7 +1,6 @@
 ---
-id: version-0.58-panresponder
 title: PanResponder
-original_id: panresponder
+id: panresponder
 ---
 
 `PanResponder` reconciles several touches into a single gesture. It makes single-touch gestures resilient to extra touches, and can be used to recognize straightforward multi-touch gestures.

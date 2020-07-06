@@ -1,7 +1,6 @@
 ---
-id: version-0.5-custom-webview-ios
 title: Custom WebView
-original_id: custom-webview-ios
+id: custom-webview-ios
 ---
 
 While the built-in web view has a lot of features, it is not possible to handle every use-case in React Native. You can, however, extend the web view with native code without forking React Native or duplicating all the existing web view code.

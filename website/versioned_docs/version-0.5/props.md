@@ -1,7 +1,6 @@
 ---
-id: version-0.5-props
 title: Props
-original_id: props
+id: props
 ---
 
 Most components can be customized when they are created, with different parameters. These creation parameters are called `props`, short for properties.

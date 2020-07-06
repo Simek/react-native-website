@@ -1,7 +1,6 @@
 ---
-id: version-0.53-backandroid
 title: BackAndroid
-original_id: backandroid
+id: backandroid
 ---
 
 Deprecated. Use BackHandler instead.

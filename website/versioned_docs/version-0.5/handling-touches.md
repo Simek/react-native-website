@@ -1,7 +1,6 @@
 ---
-id: version-0.5-handling-touches
 title: Handling Touches
-original_id: handling-touches
+id: handling-touches
 ---
 
 Users interact with mobile apps mainly through touch. They can use a combination of gestures, such as tapping on a button, scrolling a list, or zooming on a map. React Native provides components to handle all sorts of common gestures, as well as a comprehensive [gesture responder system](gesture-responder-system.md) to allow for more advanced gesture recognition, but the one component you will most likely be interested in is the basic Button.
@@ -21,7 +20,7 @@ Users interact with mobile apps mainly through touch. They can use a combination
 
 This will render a blue label on iOS, and a blue rounded rectangle with light text on Android. Pressing the button will call the "onPress" function, which in this case displays an alert popup. If you like, you can specify a "color" prop to change the color of your button.
 
-![](/docs/assets/Button.png)
+![](/website/docs/assets/Button.png)
 
 Go ahead and play around with the `Button` component using the example below. You can select which platform your app is previewed in by clicking on the toggle in the bottom right, then click on "Tap to Play" to preview the app.
 

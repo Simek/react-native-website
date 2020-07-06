@@ -1,7 +1,6 @@
 ---
-id: version-0.49-pixelratio
 title: PixelRatio
-original_id: pixelratio
+id: pixelratio
 ---
 
 PixelRatio class gives access to the device pixel density.

@@ -1,7 +1,6 @@
 ---
-id: version-0.18-switch
 title: Switch
-original_id: switch
+id: switch
 ---
 
 Universal two-state toggle component.

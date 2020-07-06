@@ -1,7 +1,6 @@
 ---
-id: version-0.18-navigatorios
 title: NavigatorIOS
-original_id: navigatorios
+id: navigatorios
 ---
 
 NavigatorIOS wraps UIKit navigation and allows you to add back-swipe functionality across your app.

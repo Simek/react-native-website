@@ -1,7 +1,6 @@
 ---
-id: version-0.16-layout-props
 title: Layout Props
-original_id: layout-props
+id: layout-props
 ---
 
 ### Props

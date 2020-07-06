@@ -3,22 +3,19 @@
   "description": "React Native website",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://reactnative.dev",
   "bugs": {
-    "url": "https://github.com/facebook/react-native-website"
+    "url": "https://github.com/facebook/react-native-website/issues"
   },
-  "license": "CC",
-  "main": "n/a",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/facebook/react-native-website.git"
-  },
+  "license": "CC-BY-4.0",
+  "repository": "github:facebook/react-native-website",
   "scripts": {
-    "start": "docusaurus-start",
-    "build": "docusaurus-build",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
     "prepublish-gh-pages": "yarn sync-community-repos",
-    "publish-gh-pages": "docusaurus-publish",
-    "version": "docusaurus-version",
-    "rename-version": "docusaurus-rename-version",
+    "publish-gh-pages": "docusaurus publish",
+    "version": "docusaurus version",
+    "rename-version": "docusaurus rename-version",
     "ci-check": "yarn prettier:diff && node image-check.js",
     "format:source": "prettier --write \"{core/**/*.js,static/js/**/*.js}\"",
     "format:markdown": "prettier --write \"{../docs/*.md,versioned_docs/**/*.md,blog/**/*.md}\"",
@@ -39,7 +36,11 @@
   },
   "dependencies": {
     "alex": "^8.0.0",
-    "docusaurus": "1.14.4",
+    "@docusaurus/core": "^2.0.0-alpha.58",
+    "@docusaurus/preset-classic": "^2.0.0-alpha.58",
+    "clsx": "^1.1.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
     "highlight.js": "^9.15.10",
     "remarkable": "^2.0.0"
   },
@@ -53,5 +54,13 @@
     "path": "^0.12.7",
     "prettier": "1.16.4",
     "pretty-quick": "^1.10.0"
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

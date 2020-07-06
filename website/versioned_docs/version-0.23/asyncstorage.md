@@ -1,7 +1,6 @@
 ---
-id: version-0.23-asyncstorage
 title: AsyncStorage
-original_id: asyncstorage
+id: asyncstorage
 ---
 
 AsyncStorage is an asynchronous, persistent, key-value storage system that is global to the app. It should be used instead of LocalStorage.

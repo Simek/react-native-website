@@ -1,8 +1,7 @@
 ---
-id: version-0.62-intro-react
 title: React Fundamentals
 description: To understand React Native fully, you need a solid foundation in React. This short introduction to React can help you get started or get refreshed.
-original_id: intro-react
+id: intro-react
 ---
 
 React Native runs on [React](https://reactjs.org/), a popular open source library for building user interfaces with JavaScript. To make the most of React Native, it helps to understand React itself. This section can get you started or can serve as a refresher course.
@@ -44,7 +43,7 @@ export default function Cat() {
 }
 ```
 
-Here is how you do it: To define your `Cat` component, first use JavaScript’s [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) to import React and React Native’s [`Text`](/docs/next/text) Core Component:
+Here is how you do it: To define your `Cat` component, first use JavaScript’s [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) to import React and React Native’s [`Text`](/website/docs/next/text) Core Component:
 
 ```jsx
 import React from 'react';

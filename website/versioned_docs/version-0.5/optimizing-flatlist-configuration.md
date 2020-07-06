@@ -1,7 +1,6 @@
 ---
-id: version-0.5-optimizing-flatlist-configuration
 title: Optimizing Flatlist Configuration
-original_id: optimizing-flatlist-configuration
+id: optimizing-flatlist-configuration
 ---
 
 ## Terms
@@ -122,13 +121,13 @@ You can use the community packages (such as [react-native-fast-image](https://gi
 
 ### Use getItemLayout
 
-If all your list item components have the same height (or width, for a horizontal list), providing the [getItemLayout](/docs/flatlist#getitemlayout) prop removes the need for your `FlatList` to manage async layout calculations. This is a very desirable optimization technique.
+If all your list item components have the same height (or width, for a horizontal list), providing the [getItemLayout](/website/docs/flatlist#getitemlayout) prop removes the need for your `FlatList` to manage async layout calculations. This is a very desirable optimization technique.
 
 If your components have dynamic size and you really need performance, consider asking your design team if they may think of a redesign in order to perform better.
 
 ### Use keyExtractor or key
 
-You can set the [`keyExtractor`](/docs/flatlist#keyextractor) to your `FlatList` component. This prop is used for caching and as the React `key` to track item re-ordering.
+You can set the [`keyExtractor`](/website/docs/flatlist#keyextractor) to your `FlatList` component. This prop is used for caching and as the React `key` to track item re-ordering.
 
 You can also use a `key` prop in you item component.
 

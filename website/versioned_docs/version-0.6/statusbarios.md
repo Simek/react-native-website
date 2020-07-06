@@ -1,7 +1,6 @@
 ---
-id: version-0.6-statusbarios
 title: StatusBarIOS
-original_id: statusbarios
+id: statusbarios
 ---
 
 ### Methods

@@ -1,7 +1,6 @@
 ---
-id: version-0.30-progressviewios
 title: ProgressViewIOS
-original_id: progressviewios
+id: progressviewios
 ---
 
 Use `ProgressViewIOS` to render a UIProgressView on iOS.

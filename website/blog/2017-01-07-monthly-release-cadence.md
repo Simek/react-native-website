@@ -1,5 +1,5 @@
 ---
-title: A Monthly Release Cadence: Releasing December and January RC
+title: "A Monthly Release Cadence: Releasing December and January RC"
 author: Eric Vicenti
 authorTitle: Engineer at Facebook
 authorURL: https://twitter.com/EricVicenti

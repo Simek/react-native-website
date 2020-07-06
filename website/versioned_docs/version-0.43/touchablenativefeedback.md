@@ -1,7 +1,6 @@
 ---
-id: version-0.43-touchablenativefeedback
 title: TouchableNativeFeedback
-original_id: touchablenativefeedback
+id: touchablenativefeedback
 ---
 
 A wrapper for making views respond properly to touches (Android only). On Android this component uses native state drawable to display touch feedback.

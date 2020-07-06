@@ -1,7 +1,6 @@
 ---
-id: version-0.48-listview
 title: ListView
-original_id: listview
+id: listview
 ---
 
 DEPRECATED - use one of the new list components, such as [`FlatList`](flatlist.md) or [`SectionList`](sectionlist.md) for bounded memory use, fewer bugs, better performance, an easier to use API, and more features. Check out this [blog post](/blog/2017/03/13/better-list-views.html) for more details.

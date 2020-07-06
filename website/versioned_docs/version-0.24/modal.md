@@ -1,7 +1,6 @@
 ---
-id: version-0.24-modal
 title: Modal
-original_id: modal
+id: modal
 ---
 
 A Modal component covers the native view (e.g. UIViewController, Activity) that contains the React Native root.

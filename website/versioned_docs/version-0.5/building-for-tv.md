@@ -1,7 +1,6 @@
 ---
-id: version-0.5-building-for-tv
 title: Building For TV Devices
-original_id: building-for-tv
+id: building-for-tv
 ---
 
 TV devices support has been implemented with the intention of making existing React Native applications work on Apple TV and Android TV, with few or no changes needed in the JavaScript code for the applications.

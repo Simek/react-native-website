@@ -1,7 +1,6 @@
 ---
-id: version-0.35-permissionsandroid
 title: PermissionsAndroid
-original_id: permissionsandroid
+id: permissionsandroid
 ---
 
 `PermissionsAndroid` provides access to Android M's new permissions model. Some permissions are granted by default when the application is installed so long as they appear in `AndroidManifest.xml`. However, "dangerous" permissions require a dialog prompt. You should use this module for those permissions.

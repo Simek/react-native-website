@@ -1,7 +1,6 @@
 ---
-id: version-0.61-typescript
 title: Using TypeScript with React Native
-original_id: typescript
+id: typescript
 ---
 
 [TypeScript][ts] is a language which extends JavaScript by adding type definitions, much like [Flow][flow]. While React Native is built in Flow, it supports both TypeScript _and_ Flow by default.
@@ -212,12 +211,12 @@ npm install --save-dev babel-plugin-module-resolver
 [ts]: https://www.typescriptlang.org/
 [flow]: https://flow.org
 [ts-template]: https://github.com/react-native-community/react-native-template-typescript
-[babel]: /docs/javascript-environment#javascript-syntax-transformers
+[babel]: /website/docs/javascript-environment#javascript-syntax-transformers
 [babel-7-caveats]: https://babeljs.io/docs/en/next/babel-plugin-transform-typescript
 [cheats]: https://github.com/typescript-cheatsheets/react-typescript-cheatsheet#reacttypescript-cheatsheets
 [ts-handbook]: http://www.typescriptlang.org/docs/home.html
-[props]: /docs/props.html
-[state]: /docs/state.html
+[props]: /website/docs/props.html
+[state]: /website/docs/state.html
 [path-map]: https://www.typescriptlang.org/docs/handbook/module-resolution.html#path-mapping
 [bpmr]: https://github.com/tleunen/babel-plugin-module-resolver
 [expo]: https://expo.io

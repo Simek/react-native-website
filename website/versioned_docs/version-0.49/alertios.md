@@ -1,7 +1,6 @@
 ---
-id: version-0.49-alertios
 title: AlertIOS
-original_id: alertios
+id: alertios
 ---
 
 `AlertIOS` provides functionality to create an iOS alert dialog with a message or create a prompt for user input.

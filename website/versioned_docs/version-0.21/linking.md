@@ -1,7 +1,6 @@
 ---
-id: version-0.21-linking
 title: Linking
-original_id: linking
+id: linking
 ---
 
 `Linking` gives you a general interface to interact with both incoming and outgoing app links.

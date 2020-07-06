@@ -1,7 +1,6 @@
 ---
-id: version-0.53-webview
 title: WebView
-original_id: webview
+id: webview
 ---
 
 `WebView` renders web content in a native view.

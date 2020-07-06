@@ -1,7 +1,6 @@
 ---
-id: version-0.62-dimensions
 title: Dimensions
-original_id: dimensions
+id: dimensions
 ---
 
 > [`useWindowDimensions`](usewindowdimensions) is the preferred API for React components. Unlike `Dimensions`, it updates as the window's dimensions update. This works nicely with the React paradigm.

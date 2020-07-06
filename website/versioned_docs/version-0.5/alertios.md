@@ -1,7 +1,6 @@
 ---
-id: version-0.5-alertios
 title: AlertIOS
-original_id: alertios
+id: alertios
 ---
 
 Use `AlertIOS` to display an alert dialog with a message or to create a prompt for user input on iOS. If you don't need to prompt for user input, we recommend using [`Alert.alert()`](alert.md#alert) for cross-platform support.

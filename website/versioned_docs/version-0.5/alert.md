@@ -1,7 +1,6 @@
 ---
-id: version-0.5-alert
 title: Alert
-original_id: alert
+id: alert
 ---
 
 Use `Alert` to display an alert dialog.

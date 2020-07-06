@@ -1,5 +1,5 @@
 ---
-title: React Native: A year in review
+title: "React Native: A year in review"
 author: Martin Konicek
 authorTitle: Software Engineer at Facebook
 authorURL: https://github.com/mkonicek

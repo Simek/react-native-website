@@ -1,7 +1,6 @@
 ---
-id: version-0.62-vibration
 title: Vibration
-original_id: vibration
+id: vibration
 ---
 
 Vibrates the device.

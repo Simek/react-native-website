@@ -1,7 +1,6 @@
 ---
-id: version-0.29-keyboardavoidingview
 title: KeyboardAvoidingView
-original_id: keyboardavoidingview
+id: keyboardavoidingview
 ---
 
 ### Props

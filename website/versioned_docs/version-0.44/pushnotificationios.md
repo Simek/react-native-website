@@ -1,7 +1,6 @@
 ---
-id: version-0.44-pushnotificationios
 title: PushNotificationIOS
-original_id: pushnotificationios
+id: pushnotificationios
 ---
 
 Handle push notifications for your app, including permission handling and icon badge number.

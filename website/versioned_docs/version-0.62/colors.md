@@ -1,7 +1,6 @@
 ---
-id: version-0.62-colors
 title: Color Reference
-original_id: colors
+id: colors
 ---
 
 Components in React Native are [styled using JavaScript](style). Color properties usually match how [CSS works on the web](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value).

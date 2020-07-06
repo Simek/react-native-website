@@ -1,7 +1,6 @@
 ---
-id: version-0.15-cameraroll
 title: CameraRoll
-original_id: cameraroll
+id: cameraroll
 ---
 
 `CameraRoll` provides access to the local camera roll / gallery.

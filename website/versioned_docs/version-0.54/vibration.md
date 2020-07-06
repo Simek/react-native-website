@@ -1,7 +1,6 @@
 ---
-id: version-0.54-vibration
 title: Vibration
-original_id: vibration
+id: vibration
 ---
 
 The Vibration API is exposed at `Vibration.vibrate()`. The vibration is synchronous so this method will return immediately.

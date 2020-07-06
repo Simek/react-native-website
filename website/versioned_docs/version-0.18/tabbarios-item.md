@@ -1,7 +1,6 @@
 ---
-id: version-0.18-tabbarios-item
 title: TabBarIOS.Item
-original_id: tabbarios-item
+id: tabbarios-item
 ---
 
 ### Props

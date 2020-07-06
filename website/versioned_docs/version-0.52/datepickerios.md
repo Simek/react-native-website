@@ -1,7 +1,6 @@
 ---
-id: version-0.52-datepickerios
 title: DatePickerIOS
-original_id: datepickerios
+id: datepickerios
 ---
 
 Use `DatePickerIOS` to render a date/time picker (selector) on iOS. This is a controlled component, so you must hook in to the `onDateChange` callback and update the `date` prop in order for the component to update, otherwise the user's change will be reverted immediately to reflect `props.date` as the source of truth.
@@ -48,7 +47,7 @@ const styles = StyleSheet.create({
 })
 ```
 
-<center><img src="/docs/assets/DatePickerIOS/example.gif" width="360"></img></center>
+<center><img src="/website/docs/assets/DatePickerIOS/example.gif" width="360"></img></center>
 
 ### Props
 
@@ -103,7 +102,7 @@ Restricts the range of possible date/time values.
 
 Example with `maximumDate` set to December 31, 2017:
 
-<center><img src="/docs/assets/DatePickerIOS/maximumDate.gif" width="360"></img></center>
+<center><img src="/website/docs/assets/DatePickerIOS/maximumDate.gif" width="360"></img></center>
 
 ---
 
@@ -131,7 +130,7 @@ The interval at which minutes can be selected.
 
 Example with `minuteInterval` set to `10`:
 
-<center><img src="/docs/assets/DatePickerIOS/minuteInterval.png" width="360"></img></center>
+<center><img src="/website/docs/assets/DatePickerIOS/minuteInterval.png" width="360"></img></center>
 
 ---
 
@@ -143,7 +142,7 @@ The date picker mode.
 | -------------------------------- | -------- |
 | enum('date', 'time', 'datetime') | No       |
 
-Example with `mode` set to `date`, `time`, and `datetime`: ![](/docs/assets/DatePickerIOS/mode.png)
+Example with `mode` set to `date`, `time`, and `datetime`: ![](/website/docs/assets/DatePickerIOS/mode.png)
 
 ---
 

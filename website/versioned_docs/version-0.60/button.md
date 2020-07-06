@@ -1,7 +1,6 @@
 ---
-id: version-0.60-button
 title: Button
-original_id: button
+id: button
 ---
 
 A basic button component that should render nicely on any platform. Supports a minimal level of customization.

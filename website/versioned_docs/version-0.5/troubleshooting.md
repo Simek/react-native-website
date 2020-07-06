@@ -1,7 +1,6 @@
 ---
-id: version-0.5-troubleshooting
 title: Troubleshooting
-original_id: troubleshooting
+id: troubleshooting
 ---
 
 These are some common issues you may run into while setting up React Native. If you encounter something that is not listed here, try [searching for the issue in GitHub](https://github.com/facebook/react-native/issues/).

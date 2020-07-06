@@ -1,7 +1,6 @@
 ---
-id: version-0.60-asyncstorage
 title: AsyncStorage
-original_id: asyncstorage
+id: asyncstorage
 ---
 
 > **Deprecated.** Use [react-native-community/react-native-async-storage](https://github.com/react-native-community/react-native-async-storage) instead.

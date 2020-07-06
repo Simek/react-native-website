@@ -1,7 +1,6 @@
 ---
-id: version-0.5-animatedvalue
 title: AnimatedValue
-original_id: animatedvalue
+id: animatedvalue
 ---
 
 Standard value for driving animations. One `Animated.Value` can drive multiple properties in a synchronized fashion, but can only be driven by one mechanism at a time. Using a new mechanism (e.g. starting a new animation, or calling `setValue`) will stop any previous ones.

@@ -1,5 +1,5 @@
 ---
-title: idx: The Existential Function
+title: "idx: The Existential Function"
 author: Timothy Yung
 authorTitle: Engineering Manager at Facebook
 authorURL: https://github.com/yungsters
@@ -12,7 +12,7 @@ At Facebook, we often need to access deeply nested values in data structures fet
 
 Unfortunately, accessing these deeply nested values is currently tedious and verbose.
 
-```jsx
+```js
 props.user &&
   props.user.friends &&
   props.user.friends[0] &&
@@ -23,7 +23,7 @@ There is [an ECMAScript proposal to introduce the existential operator](https://
 
 We came up with an existential _function_ we call `idx`.
 
-```jsx
+```js
 idx(props, (_) => _.user.friends[0].friends);
 ```
 
@@ -36,7 +36,7 @@ In theory, the `idx` function will try-catch errors that are the result of acces
 
 In practice, try-catching every nested property access is slow, and differentiating between specific kinds of TypeErrors is fragile. To deal with these shortcomings, we created a Babel plugin that transforms the above `idx` invocation into the following expression:
 
-```jsx
+```js
 props.user == null
   ? props.user
   : props.user.friends == null

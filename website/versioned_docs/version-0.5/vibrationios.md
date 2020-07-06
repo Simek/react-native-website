@@ -1,7 +1,6 @@
 ---
-id: version-0.5-vibrationios
 title: VibrationIOS
-original_id: vibrationios
+id: vibrationios
 ---
 
 The Vibration API is exposed at `VibrationIOS.vibrate()`. On iOS, calling this function will trigger a one second vibration. The vibration is synchronous so this method will return immediately.

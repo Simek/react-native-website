@@ -1,7 +1,6 @@
 ---
-id: version-0.5-maskedviewios
 title: MaskedViewIOS
-original_id: maskedviewios
+id: maskedviewios
 ---
 
 Renders the child view with a mask specified in the `maskElement` prop.

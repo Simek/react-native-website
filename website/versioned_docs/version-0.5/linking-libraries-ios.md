@@ -1,7 +1,6 @@
 ---
-id: version-0.5-linking-libraries-ios
 title: Linking Libraries
-original_id: linking-libraries-ios
+id: linking-libraries-ios
 ---
 
 Not every app uses all the native capabilities, and including the code to support all those features would impact the binary size... But we still want to support these features whenever you need them.
@@ -44,13 +43,13 @@ Done! All libraries with native dependencies should be successfully linked to yo
 
 If the library has native code, there must be an `.xcodeproj` file inside its folder. Drag this file to your project on Xcode (usually under the `Libraries` group on Xcode);
 
-![](/docs/assets/AddToLibraries.png)
+![](/website/docs/assets/AddToLibraries.png)
 
 #### Step 2
 
 Click on your main project file (the one that represents the `.xcodeproj`) select `Build Phases` and drag the static library from the `Products` folder inside the Library you are importing to `Link Binary With Libraries`
 
-![](/docs/assets/AddToBuildPhases.png)
+![](/website/docs/assets/AddToBuildPhases.png)
 
 #### Step 3
 
@@ -62,4 +61,4 @@ What that means is, are you using this library on the native side or only in Jav
 
 If you do need to call it from native, then we need to know the library's headers. To achieve that you have to go to your project's file, select `Build Settings` and search for `Header Search Paths`. There you should include the path to your library. (This documentation used to recommend using `recursive`, but this is no longer recommended, as it can cause subtle build failures, especially with CocoaPods.)
 
-![](/docs/assets/AddToSearchPaths.png)
+![](/website/docs/assets/AddToSearchPaths.png)

@@ -1,7 +1,6 @@
 ---
-id: version-0.45-geolocation
 title: Geolocation
-original_id: geolocation
+id: geolocation
 ---
 
 The Geolocation API extends the web spec: https://developer.mozilla.org/en-US/docs/Web/API/Geolocation

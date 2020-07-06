@@ -1,7 +1,6 @@
 ---
-id: version-0.5-cameraroll
 title: CameraRoll
-original_id: cameraroll
+id: cameraroll
 ---
 
 ### Methods

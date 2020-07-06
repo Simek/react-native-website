@@ -1,7 +1,6 @@
 ---
-id: version-0.5-using-a-scrollview
 title: Using a ScrollView
-original_id: using-a-scrollview
+id: using-a-scrollview
 ---
 
 The [ScrollView](scrollview.md) is a generic scrolling container that can contain multiple components and views. The scrollable items need not be homogeneous, and you can scroll both vertically and horizontally (by setting the `horizontal` property).

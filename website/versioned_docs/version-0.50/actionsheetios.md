@@ -1,7 +1,6 @@
 ---
-id: version-0.50-actionsheetios
 title: ActionSheetIOS
-original_id: actionsheetios
+id: actionsheetios
 ---
 
 ### Methods

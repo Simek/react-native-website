@@ -1,7 +1,6 @@
 ---
-id: version-0.24-slider
 title: Slider
-original_id: slider
+id: slider
 ---
 
 A component used to select a single value from a range of values.

@@ -1,7 +1,6 @@
 ---
-id: version-0.5-dimensions
 title: Dimensions
-original_id: dimensions
+id: dimensions
 ---
 
 ### Methods

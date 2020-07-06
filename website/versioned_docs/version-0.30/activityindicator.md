@@ -1,7 +1,6 @@
 ---
-id: version-0.30-activityindicator
 title: ActivityIndicator
-original_id: activityindicator
+id: activityindicator
 ---
 
 Displays a circular loading indicator.

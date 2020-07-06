@@ -1,7 +1,6 @@
 ---
-id: version-0.37-cameraroll
 title: CameraRoll
-original_id: cameraroll
+id: cameraroll
 ---
 
 `CameraRoll` provides access to the local camera roll / gallery. Before using this you must link the `RCTCameraRoll` library. You can refer to [Linking](linking-libraries-ios) for help.

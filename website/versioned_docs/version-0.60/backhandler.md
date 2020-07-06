@@ -1,7 +1,6 @@
 ---
-id: version-0.60-backhandler
 title: BackHandler
-original_id: backhandler
+id: backhandler
 ---
 
 Detect hardware button presses for back navigation.
@@ -12,7 +11,7 @@ tvOS: Detect presses of the menu button on the TV remote. (Still to be implement
 
 iOS: Not applicable.
 
-The event subscriptions are called in reverse order (i.e. last registered subscription first), and if one subscription returns true then subscriptions registered earlier will not be called. Beware: If your app shows an opened `Modal`, BackHandler will not publish any events ([see `Modal` docs](/docs/modal#onrequestclose)).
+The event subscriptions are called in reverse order (i.e. last registered subscription first), and if one subscription returns true then subscriptions registered earlier will not be called. Beware: If your app shows an opened `Modal`, BackHandler will not publish any events ([see `Modal` docs](/website/docs/modal#onrequestclose)).
 
 Example:
 

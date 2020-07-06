@@ -1,7 +1,6 @@
 ---
-id: version-0.52-segmentedcontrolios
 title: SegmentedControlIOS
-original_id: segmentedcontrolios
+id: segmentedcontrolios
 ---
 
 Use `SegmentedControlIOS` to render a UISegmentedControl iOS.

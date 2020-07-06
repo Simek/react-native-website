@@ -1,7 +1,6 @@
 ---
-id: version-0.7-text-style-props
 title: Text Style Props
-original_id: text-style-props
+id: text-style-props
 ---
 
 ### Props

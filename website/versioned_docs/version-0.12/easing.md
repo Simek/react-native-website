@@ -1,7 +1,6 @@
 ---
-id: version-0.12-easing
 title: Easing
-original_id: easing
+id: easing
 ---
 
 This class implements common easing functions. The math is pretty obscure, but this cool website has nice visual illustrations of what they represent: http://xaedes.de/dev/transitions/

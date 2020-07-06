@@ -1,7 +1,6 @@
 ---
-id: version-0.60-transforms
 title: Transforms
-original_id: transforms
+id: transforms
 ---
 
 # Reference

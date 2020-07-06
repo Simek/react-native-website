@@ -1,7 +1,6 @@
 ---
-id: version-0.60-alertios
 title: AlertIOS
-original_id: alertios
+id: alertios
 ---
 
 > **Deprecated.** `AlertIOS` has been moved to [`Alert`](alert.md)

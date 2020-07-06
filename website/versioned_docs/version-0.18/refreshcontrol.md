@@ -1,7 +1,6 @@
 ---
-id: version-0.18-refreshcontrol
 title: RefreshControl
-original_id: refreshcontrol
+id: refreshcontrol
 ---
 
 This component is used inside a ScrollView to add pull to refresh functionality. When the ScrollView is at `scrollY: 0`, swiping down triggers an `onRefresh` event.

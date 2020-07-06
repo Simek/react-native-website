@@ -1,7 +1,6 @@
 ---
-id: version-0.27-statusbarios
 title: StatusBarIOS
-original_id: statusbarios
+id: statusbarios
 ---
 
 Deprecated. Use `StatusBar` instead.

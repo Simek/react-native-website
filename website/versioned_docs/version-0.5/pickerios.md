@@ -1,7 +1,6 @@
 ---
-id: version-0.5-pickerios
 title: PickerIOS
-original_id: pickerios
+id: pickerios
 ---
 
 ### Props

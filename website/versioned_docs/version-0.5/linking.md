@@ -1,7 +1,6 @@
 ---
-id: version-0.5-linking
 title: Linking
-original_id: linking
+id: linking
 ---
 
 <div class="banner-crna-ejected">

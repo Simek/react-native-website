@@ -1,7 +1,6 @@
 ---
-id: version-0.7-webview
 title: WebView
-original_id: webview
+id: webview
 ---
 
 ### Props

@@ -1,7 +1,6 @@
 ---
-id: version-0.16-animated
 title: Animated
-original_id: animated
+id: animated
 ---
 
 Animations are an important part of modern UX, and the `Animated` library is designed to make them fluid, powerful, and possible to build and maintain.
