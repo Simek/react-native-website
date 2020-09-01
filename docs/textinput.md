@@ -8,28 +8,38 @@ A foundational component for inputting text into the app via a keyboard. Props p
 The most basic use case is to plop down a `TextInput` and subscribe to the `onChangeText` events to read the user input. There are also other events, such as `onSubmitEditing` and `onFocus` that can be subscribed to. A minimal example:
 
 ```SnackPlayer name=TextInput
-import React, { Component } from 'react';
-import { TextInput , SafeAreaView} from 'react-native';
+import React from "react";
+import { SafeAreaView, StyleSheet, TextInput } from "react-native";
 
 const UselessTextInput = () => {
-  const [value, onChangeText] = React.useState('Useless Placeholder');
-  const [number, onChangeNumber] = React.useState('Phone number');
+  const [text, onChangeText] = React.useState("Useless Text");
+  const [number, onChangeNumber] = React.useState(null);
+
   return (
     <SafeAreaView>
       <TextInput
-        style={{ height: 40, borderColor: 'gray', borderWidth: 1 }}
+        style={styles.input}
         onChangeText={onChangeText}
-        value={value}
+        value={text}
       />
       <TextInput
-        style={{ height: 40, marginTop: 20, borderWidth: 1 }}
+        style={styles.input}
         onChangeText={onChangeNumber}
-        placeholder={number}
-        keyboardType={'numeric'}
+        value={number}
+        placeholder="useless placeholder"
+        keyboardType="numeric"
       />
     </SafeAreaView>
   );
-}
+};
+
+const styles = StyleSheet.create({
+  input: {
+    height: 40,
+    margin: 12,
+    borderWidth: 1,
+  },
+});
 
 export default UselessTextInput;
 ```
