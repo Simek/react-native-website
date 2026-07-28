@@ -243,15 +243,13 @@ export default function DocsSecondaryNav({
           <CopyPageButton
             customStyles={{
               container: {className: styles.copyPageContainer},
-              button: {
-                className: styles.copyPageButton,
-                style: {marginBottom: 0},
-              },
+              button: {className: styles.copyPageButton},
               dropdown: {className: styles.copyPageDropdown},
             }}
           />
         )}
       </div>
+      <div className={styles.secondaryNavDivider} />
     </nav>
   );
 }
