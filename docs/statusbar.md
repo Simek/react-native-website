@@ -409,7 +409,7 @@ Status bar style type.
 
 | Value             | Type   | Description                                                                                                                         |
 | ----------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| `'default'`       | string | Default status bar style (dark for iOS, light for Android)                                                                          |
-| `'auto'   `       | string | Automatically picks `light-content` or `dark-content` based on the current color scheme. Updates whenever the color scheme changes. |
+| `'default'`       | string | Default status bar style (light for Android, dark for iOS)                                                                          |
+| `'auto'`          | string | Automatically picks `light-content` or `dark-content` based on the current color scheme. Updates whenever the color scheme changes. |
 | `'light-content'` | string | White texts and icons                                                                                                               |
 | `'dark-content'`  | string | Dark texts and icons (requires API>=23 on Android)                                                                                  |
